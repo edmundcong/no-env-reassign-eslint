@@ -1,0 +1,1 @@
+# no-env-reassign-eslint
